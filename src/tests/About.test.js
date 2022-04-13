@@ -21,7 +21,7 @@ describe('2. Testa o componente About.js', () => {
     expect(firstParagraph && secondParagraph).toBeInTheDocument();
   });
 
-  it('Testa se a página contém a imagem de uma Pokédex',() => {
+  it('Testa se a página contém a imagem de uma Pokédex', () => {
     renderWithRouter(<About />);
 
     const img = screen.getByRole('img');
