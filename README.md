@@ -1,8 +1,6 @@
 ## Sobre o projeto
 O projeto consiste na criação testes para uma aplicação React que já está desenvolvida e devidamente configurada.
 
-## Funcionalidades implementadas
-* Desenvolve testes para componentes
 ## Tecnologias utilizadas
 * React;
 * Jest;
