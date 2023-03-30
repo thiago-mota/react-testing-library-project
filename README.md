@@ -1,13 +1,27 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## Sobre o projeto
+O projeto consiste na criação testes para uma aplicação React que já está desenvolvida e devidamente configurada.
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Funcionalidades implementadas
+* Desenvolve testes para componentes
+## Tecnologias utilizadas
+* React;
+* Jest;
+* React Testing Library.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+
+## Arquivos desenvolvidos
+Todos os arquivos que foram desenvolvidos por mim podem ser encontrados na seguinte estrutura. Os demais arquivos não foram necessariamente desenvolvidos por mim, podendo ser arquivos de configurações e instalações de terceiros.
+
+
+```
+├── src
+│   ├── tests
+│   │   ├── About.test.js
+│   │   ├── App.test.js
+│   │   ├── FavoritePokemons.test.js
+│   │   ├── NotFound.test.js
+│   │   ├── Pokedex.test.js
+│   │   ├── Pokemon.test.js
+│   │   └── PokemonDetails.test.js
+
+```
