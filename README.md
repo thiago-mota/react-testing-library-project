@@ -1,5 +1,5 @@
 ## Sobre o projeto
-O projeto consiste na criação testes para uma aplicação React que já está desenvolvida e devidamente configurada.
+O projeto consiste na criação testes para uma aplicação React previamente desenvolvida e configurada.
 
 ## Tecnologias utilizadas
 * React;
