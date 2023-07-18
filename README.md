@@ -8,7 +8,7 @@ O projeto consiste na criação testes para uma aplicação React que já está 
 
 
 ## Arquivos desenvolvidos
-Todos os arquivos que foram desenvolvidos por mim podem ser encontrados na seguinte estrutura. Os demais arquivos não foram necessariamente desenvolvidos por mim, podendo ser arquivos de configurações e instalações de terceiros.
+Todos os arquivos que foram desenvolvidos por mim podem ser encontrados na seguinte estrutura. Os demais arquivos não são, necessariamente, de minha autoria, podendo ser arquivos de configurações e instalações de terceiros.
 
 
 ```
